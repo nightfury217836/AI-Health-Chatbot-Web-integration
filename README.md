@@ -1,6 +1,8 @@
 # AI-Health-Chatbot-Web-integration
 AI-Health-Chatbot 🌐💡
 
+<img width="1918" height="989" alt="image" src="https://github.com/user-attachments/assets/5b1a6dd8-e09d-4723-be45-ffccd95dc0ed" />
+
 Ever wondered if Artificial Intelligence can act like a doctor? 🤔 In this project, I built an AI-powered Healthcare Chatbot that predicts diseases from your symptoms using Machine Learning in Python, and I integrated it with a web interface so anyone can interact with it online! 🚑💻
 
 Here’s what you’ll see in this end-to-end project:
@@ -31,12 +33,11 @@ Python | Scikit-learn | Pandas | NLP | Flask / Streamlit | HTML/CSS | Machine Le
 
 Open http://127.0.0.1:5000/ in your browser.
 
+
+
 On running the app.py file if nothing happens try this:
 
 set FLASK_APP=app.py
 set FLASK_ENV=development
 flask run
-
-
-<img width="1918" height="989" alt="image" src="https://github.com/user-attachments/assets/5b1a6dd8-e09d-4723-be45-ffccd95dc0ed" />
 
