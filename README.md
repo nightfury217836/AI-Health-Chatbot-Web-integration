@@ -28,3 +28,13 @@ Python | Scikit-learn | Pandas | NLP | Flask / Streamlit | HTML/CSS | Machine Le
 
 🔔 Subscribe: @souvikchai for more AI, ML, and Python projects
 📢 Share: Tag your friends interested in Healthcare AI & Data Science!
+
+On running the app.py file if nothing happens try this:
+---------------------------------------
+set FLASK_APP=app.py
+set FLASK_ENV=development
+flask run
+---------------------------------------
+
+<img width="1918" height="989" alt="image" src="https://github.com/user-attachments/assets/5b1a6dd8-e09d-4723-be45-ffccd95dc0ed" />
+
