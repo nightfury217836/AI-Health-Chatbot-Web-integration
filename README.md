@@ -37,7 +37,10 @@ Open http://127.0.0.1:5000/ in your browser.
 
 On running the app.py file if nothing happens try this:
 
+
 set FLASK_APP=app.py
+
 set FLASK_ENV=development
+
 flask run
 
